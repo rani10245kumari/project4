@@ -1,0 +1,214 @@
+/* ----------MEDIA QUERRY--------------*/
+@media (max-width: 750px) {
+    body {
+        background-color: #6511c5;
+        width: auto;
+        height: auto;
+
+    }
+
+    /*-------------------2nd picture-----------*/
+    .clock {
+        position: relative;
+        left: 180px;
+        top: 10px;
+    }
+
+    #clock1 {
+        height: 60px;
+        width: 90px;
+    }
+
+
+
+    /*----2nd picture-----------*/
+    .cont {
+        width: 320px;
+        height: 80px;
+        font-size: 22px;
+        background-color: #FFFFFF;
+        position: absolute;
+        left: 170px;
+        top: 100px;
+
+    }
+
+    .z {
+        width: 270px;
+        height: 50px;
+        position: absolute;
+        left: 190px;
+        top: 140px;
+        z-index: -1;
+    }
+
+    .z1 {
+        width: 20px;
+        height: 50px;
+        position: absolute;
+        left: 200px;
+        top: 150px;
+        z-index: -2;
+    }
+
+    /*-----3rd picture-------------------------*/
+    .food {
+        position: absolute;
+        top: 210px;
+        left: 170px;
+    }
+
+    .food h3 {
+
+        height: 30px;
+        width: 270px;
+        text-align: center;
+        padding: 20px;
+        font-size: 14px;
+        font-weight: bolder;
+    }
+
+    /* 4th picture wake up time*/
+    .alarm {
+        height: 230px;
+        width: 300px;
+        position: absolute;
+        left: 180px;
+        top: 310px;
+
+    }
+
+    #line {
+        position: relative;
+        top: 20px;
+        left: 20px;
+        font-size: 18px;
+        font-weight: bolder;
+        margin: auto;
+    }
+
+    #wake {
+        position: relative;
+        top: 20px;
+
+    }
+
+    #wake1 {
+        position: absolute;
+        left: 45px;
+        font-size: 20px;
+    }
+
+    #wake2 {
+        position: absolute;
+        left: 190px;
+        height: 20px;
+        width: 90px;
+        text-align: center;
+        font-size: 15px;
+
+    }
+
+    #lunch {
+        position: relative;
+        top: 20px;
+    }
+
+    #lunch1 {
+        position: absolute;
+        left: 50px;
+        font-size: 20px;
+    }
+
+    #lunch2 {
+        position: absolute;
+        left: 190px;
+        height: 20px;
+        width: 90px;
+        font-size: 15px;
+    }
+
+    #nap {
+        position: relative;
+        top: 27px;
+        left: 15px;
+    }
+
+    #nap1 {
+        position: absolute;
+        left: 45px;
+        font-size: 21px;
+    }
+
+    #nap2 {
+        position: absolute;
+        left: 190px;
+        height: 20px;
+        width: 90px;
+        font-size: 15px;
+    }
+
+    #night {
+        position: relative;
+        top: 25px;
+        left: 10px;
+    }
+
+    #night1 {
+        position: absolute;
+        left: 50px;
+        font-size: 20px;
+    }
+
+    #night2 {
+        position: absolute;
+        left: 190px;
+        height: 20px;
+        width: 90px;
+        font-size: 15px;
+    }
+
+    /*-----------5th image balcony--------*/
+    .balcony {
+        position: absolute;
+        top: 540px;
+        left: 170px;
+        height: 230px;
+        width: 320px;
+    }
+
+    /*---------6th picture morning---------*/
+    .mrng {
+        position: absolute;
+        top: 750px;
+        left: 170px;
+
+    }
+
+    .mrng h3 {
+        background-color: #693e9bde;
+        height: 30px;
+        width: 280px;
+        font-size: small;
+    }
+
+    /*7th picture*/
+    .set {
+        height: 30px;
+        width: 120px;
+        position: absolute;
+        left: 170px;
+        top: 840px;
+        font-size: small;
+    }
+
+    /*8thpicture*/
+    .alert {
+        position: relative;
+        height: 120px;
+        width: 180px;
+        left: 290px;
+        top: 730px;
+        font-size: small;
+    }
+}
