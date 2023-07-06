@@ -1,7 +1,7 @@
 /* ----------MEDIA QUERRY--------------*/
 @media (max-width: 675px) {
     body {
-        width: auto;
+        width: 1%;
         height: auto;
 
     }
@@ -9,7 +9,7 @@
     /*-------------------2nd picture-----------*/
     .clock {
         position: relative;
-        left: 40%;
+        left: 30%;
         top: 4vh;
     }
 
@@ -26,7 +26,7 @@
         width: 84vw;
         height: 11vh;
         font-size: 17px;
-        left: 20%;
+        left: 15%;
         top: 52%;
     }
 
@@ -41,7 +41,7 @@
         width: 72vw;
         height: 10vh;
         position: absolute;
-        left: 25%;
+        left: 35%;
         top: 60%;
         z-index: -1;
     }
@@ -50,7 +50,7 @@
         width: 67vw;
         height: 10vh;
         position: absolute;
-        left: 30%;
+        left: 45%;
         top: 65%;
     }
 
@@ -58,7 +58,7 @@
     .food {
         position: absolute;
         top: 107%;
-        left: 20%;
+        left: 15%;
     }
 
     .food h3 {
@@ -76,7 +76,7 @@
         height: 36vh;
         width: 86vw;
         position: absolute;
-        left: 20%;
+        left: 15%;
         top: 165%;
     }
 
@@ -174,7 +174,7 @@
     .balcony {
         position: absolute;
         top: 300%;
-        left: 20%;
+        left: 15%;
         height: 40vh;
         width: 86vw;
     }
@@ -183,7 +183,7 @@
     .mrng {
         position: absolute;
         top: 444%;
-        left: 20%;
+        left: 15%;
 
     }
 
@@ -199,7 +199,7 @@
         height: 5vh;
         width: 34vw;
         position: absolute;
-        left: 20%;
+        left: 15%;
         top: 500%;
         font-size: small;
     }
@@ -209,7 +209,7 @@
         position: relative;
         height: 120px;
         width: 200px;
-        left: 57%;
+        left: 130px;
         top: 890px;
         font-size: small;
     }
@@ -221,14 +221,14 @@
     ------------------------------------------*/
 @media (min-width:675px) and (max-width:900px) {
     body {
-        width: auto;
+        width: 3%;
         height: auto;
     }
 
     /*-------------------2nd picture-----------*/
     .clock {
         position: relative;
-        left: 65%;
+        left: 145%;
         top: 2vh;
     }
 
@@ -245,7 +245,7 @@
         width: 82vw;
         height: 11vh;
         font-size: 32px;
-        left: 50%;
+        left: 240%;
         top: 65%;
     }
 
@@ -259,7 +259,7 @@
         width: 75vw;
         height: 11vh;
         position: absolute;
-        left: 55%;
+        left: 400%;
         top: 73%;
         z-index: -1;
     }
@@ -268,7 +268,7 @@
         width: 70vw;
         height: 11vh;
         position: absolute;
-        left: 58%;
+        left: 448%;
         top: 79%;
     }
 
@@ -276,7 +276,7 @@
     .food {
         position: absolute;
         top: 135%;
-        left: 50%;
+        left: 240%;
     }
 
     .food h3 {
@@ -294,7 +294,7 @@
         height: 30vh;
         width: 82vw;
         position: absolute;
-        left: 50%;
+        left: 240%;
         top: 215%;
     }
 
@@ -395,7 +395,7 @@
     .balcony {
         position: absolute;
         top: 380%;
-        left: 50%;
+        left: 240%;
         height: 40vh;
         width: 82vw;
     }
@@ -404,7 +404,7 @@
     .mrng {
         position: absolute;
         top: 575%;
-        left: 50%;
+        left: 240%;
 
     }
 
@@ -420,7 +420,7 @@
         height: 5vh;
         width: 32vw;
         position: absolute;
-        left: 50%;
+        left: 240%;
         top: 640%;
         font-size: small;
     }
