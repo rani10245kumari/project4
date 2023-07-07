@@ -22,10 +22,10 @@ function clocktime() {
     assignTime[3].innerText = `${sec} \n sec`
     assignTime[4].innerText = `${AMPM}`
 
-    if (hrs >= 10 && AMPM === 'AM') {
+    if (hrs >= 7 && AMPM === 'AM') {
         messagetime.innerHTML = "GRAB SOME HEALTHY BREAKFAST!!!";
     }
-    else if (hrs < 4 && hrs >= 1 && AMPM === 'PM') {
+    else if (hrs < 4 && hrs >= 12 && AMPM === 'PM') {
         messagetime.innerHTML = "LETS HAVE SOME LUNCH !!";
     }
     else if (hrs >= 4 && hrs <= 8 && AMPM === 'PM') {
