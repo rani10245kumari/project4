@@ -87,6 +87,4 @@ function callFunction() {
         imgShow.src = "./night.svg";
     }
 }
-setInterval(() => {
-    callFunction();
-}, 1000)
+
