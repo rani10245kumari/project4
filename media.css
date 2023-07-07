@@ -3,6 +3,8 @@
     body {
         width: 1%;
         height: auto;
+        overflow-x: hidden;
+        overflow-y: scroll;
 
     }
 
@@ -223,6 +225,8 @@
     body {
         width: 3%;
         height: auto;
+        overflow-x: hidden;
+        overflow-y: scroll;
     }
 
     /*-------------------2nd picture-----------*/
